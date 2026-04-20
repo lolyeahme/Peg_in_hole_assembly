@@ -1,0 +1,1 @@
+"""Minimal assembly simulation package."""
